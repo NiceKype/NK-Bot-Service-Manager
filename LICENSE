@@ -1,0 +1,107 @@
+NKS-Public-License  
+Version 1.1, 24 July 2025
+(Short identifier: NKPL-1.1)
+
+Copyright (c) 2026 NK-STUDIOS.EU
+All rights reserved.
+
+───────────────────────────────────────────────────────────────
+                          PREAMBLE
+───────────────────────────────────────────────────────────────
+
+This license grants permission to use tools published under the NKS-Public-License freely and publicly, while preserving the origin, branding, and functional integrity of the software. You are free to use, style, and extend these tools within specific boundaries. This license aims to keep the software freely available while protecting the intellectual effort, identity, and core structure provided by NK-STUDIOS.EU.
+
+This is not a classic open-source license. It is a public-use license with restrictions designed to maintain consistent authorship, prevent unauthorized rebranding, and control redistribution.
+
+───────────────────────────────────────────────────────────────
+                  §1 – PERMITTED USE
+───────────────────────────────────────────────────────────────
+
+1.1 The tool may be used **free of charge** for **personal and commercial internal purposes**.
+
+1.2 Use within businesses, teams, or other organizations is permitted **as long as the tool is not resold, sublicensed, or redistributed**.
+
+───────────────────────────────────────────────────────────────
+              §2 – MODIFICATION RULES
+───────────────────────────────────────────────────────────────
+
+2.1 You are **allowed** to:
+  - Change the **styling** (CSS, HTML, JavaScript) of the tool.
+  - Add **features and extensions** by integrating additional code or modules.
+  - Make minor code changes for feature integration or bug fixing.
+
+2.2 You are **not allowed** to:
+  - Alter or rewrite the **core system logic** (PHP backend, core functionality, or database design).
+  - Bypass or modify **security features or license verification**.
+  - Remove or replace the original structure or logic in a way that detaches it from the intended architecture.
+
+───────────────────────────────────────────────────────────────
+         §3 – COPYRIGHT & BRANDING PROTECTION
+───────────────────────────────────────────────────────────────
+
+3.1 The **tool name, branding, logos, and all copyright**
+must remain **fully visible and unaltered**.
+
+3.2 Any removal, alteration, or replacement of branding is strictly prohibited, unless a valid **NKS-Paid-License** is purchased.
+
+3.3 Attribution to **NK-STUDIOS.EU** must be clearly retained in any visible interface and code reference.
+
+───────────────────────────────────────────────────────────────
+          §4 – REDISTRIBUTION & PUBLISHING
+───────────────────────────────────────────────────────────────
+
+4.1 You may **not upload or distribute** the tool or its modified version on other platforms, websites, or repositories.
+
+4.2 **Forks are allowed** (e.g. via GitHub), as long as:
+  - The fork remains clearly linked to the original repository.
+  - The original authorship by **NK-STUDIOS.EU** is fully visible.
+  - The fork does not attempt to rebrand, obscure, or republish under a new name or identity.
+
+4.3 You may not include this tool in other software, frameworks, or commercial products.
+
+───────────────────────────────────────────────────────────────
+             §5 – COMMERCIAL RESTRICTIONS
+───────────────────────────────────────────────────────────────
+
+5.1 Internal use in commercial environments is permitted and encouraged.
+
+5.2 It is **strictly forbidden** to:
+  - Resell or sublicense the tool or any modified version.
+  - Include this tool in paid platforms or tools without a separate commercial license.
+
+5.3 The **NKS-Paid-License** may be purchased to:
+  - Remove or modify branding.
+  - Integrate the tool into a commercial product.
+  - Use in SaaS offerings or client-distributed platforms.
+
+───────────────────────────────────────────────────────────────
+                  §6 – WARRANTY DISCLAIMER
+───────────────────────────────────────────────────────────────
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,  
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES  
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE  
+FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY.
+
+Use at your own risk.
+
+───────────────────────────────────────────────────────────────
+              §7 – LICENSE VERSION & REFERENCE
+───────────────────────────────────────────────────────────────
+
+This license is identified as:
+
+**NKS-Public-License (NKPL-1.1)**  
+Created and owned by **NK-STUDIOS.EU**
+
+All tools under this license must include a copy of this file and retain clear reference to the original source and author.
+
+───────────────────────────────────────────────────────────────
+             CONTACT / LICENSE UPGRADES
+───────────────────────────────────────────────────────────────
+
+For inquiries about branding removal, paid commercial usage, or licensing upgrades:
+
+1. Discord Ticket System: https://discord.gg/MgMNgJTbjR  
+2. Email: info@nk-studios.eu
