@@ -1,14 +1,14 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="assets/img/logo-large.png" style="height: 256px;">
+  <img src="assets/img/bsm-logo.png" style="height: 256px;">
 </p>
 
 <!-- MAIN INFORMATION -->
 <p align="center">
-  <a href="#-nkfoldermanager---password-protected-folders">Overview</a> •
+  <a href="#-nk-bot-service-manager---interactive-discord-bot-manager">Overview</a> •
   <a href="/CHANGELOG.md">Changelog</a> •
   <a href="https://nicekype.de">Website</a> •
-  <a href="https://github.com/NK-Studios-eu/nkFolderManager?tab=License-1-ov-file">License</a><br>
+  <a href="https://github.com/NiceKype/NK-Bot-Service-Manager?tab=License-1-ov-file">License</a><br>
   <img src="https://img.shields.io/badge/Status-In--Progress-orange.svg?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Last%20Update-03.10.2026-272727.svg?style=for-the-badge" alt="Update">
   <img src="https://img.shields.io/badge/Version-0.1.0-blue.svg?style=for-the-badge" alt="Version">
@@ -21,7 +21,7 @@
 <br>
 
 <!-- DESCRIPTION -->
-# <img src="assets/img/logo.png" style="height: 25px;"> NK Bot Service Manager - Interactive Discord Bot Manager
+# <img src="assets/img/bsm-logo.png" style="height: 25px;"> NK Bot Service Manager - Interactive Discord Bot Manager
 The name already suggests what the tool can do. But it can do much more than just password-protect folders.
 I was tired of constantly protecting folders with .htaccess and .htpasswd. Most web server users are familiar with this. This pop-up window where you enter your login credentials looks incredibly ugly and uninspired.
 I programmed a web app with FolderManager that makes the whole thing more attractive and technically sophisticated.
