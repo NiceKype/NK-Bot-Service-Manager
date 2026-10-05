@@ -135,7 +135,7 @@ The desktop application can be closed independently while the NKBSM Windows Serv
 - [ ] Secure remote API for NKBSM agents
 - [ ] Extended bot monitoring and runtime statistics
 - [ ] Improved bot health and crash diagnostics
-- [ ] Additional community translations through Crowdin
+- [x] Additional community translations through Crowdin
 - [ ] Automated Crowdin → GitHub language synchronization
 - [ ] Further installer and updater improvements
 - [ ] Stable `1.0.0` release after the Alpha/Beta testing phases
