@@ -14,6 +14,35 @@ and this project follows Semantic Versioning.
 - Linux agent support
 - Web-based management interface
 
+## [0.1.0-alpha.2] - 2026-10-16
+
+### Changed
+
+* Improved Python bot process execution and runtime handling.
+* Python processes now use unbuffered output for more responsive live console updates.
+* Improved UTF-8 encoding support for Python console output and logs.
+* Improved runtime information displayed in bot session headers.
+
+### Added
+
+* Automatic detection of local Python virtual environments (`.venv`, `venv`, `env`).
+* Automatic fallback to the system Python executable when no custom runtime or virtual environment is configured.
+
+### Compatibility
+
+* Python bots continue to run directly without requiring PM2 or other external process managers.
+* Existing bot configurations remain compatible.
+* Existing Node.js, Batch/CMD and executable launch modes remain unchanged.
+
+### Known Limitations
+
+* Alpha software; bugs and breaking changes may occur.
+* Compatibility with individual third-party bots is not guaranteed.
+* Windows x64 only.
+* Linux support is not yet available.
+* Web management is not yet available.
+
+
 ## [0.1.0-alpha.1] - 2026-10-04
 
 ### Added
